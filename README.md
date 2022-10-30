@@ -6,15 +6,15 @@ This dataset, which includes Amazon product data, includes product categories an
 
 Variables
 
-reviewerID: User ID
-asin : Product ID
-reviewerName: User Name
-helpful: Useful Evaluation Rating
-reviewText: Evaluation
-overall: Product Rating
-summary: Evaluation Summary
-unixReviewTime: Evaluation Time
-reviewTime: Evaluation Time Raw
-day_diff: Number of Days Passed Since Assessment
-helpful_yes: The Number of Times the Evaluation Was Found Useful
-total_vote: Number of Votes Given To the Evaluation.
+reviewerID: User ID <br/>
+asin : Product ID <br/>
+reviewerName: User Name <br/>
+helpful: Useful Evaluation Rating <br/>
+reviewText: Evaluation <br/>
+overall: Product Rating <br/> 
+summary: Evaluation Summary <br/>
+unixReviewTime: Evaluation Time <br/>
+reviewTime: Evaluation Time Raw <br/> 
+day_diff: Number of Days Passed Since Assessment <br/>
+helpful_yes: The Number of Times the Evaluation Was Found Useful <br/>
+total_vote: Number of Votes Given To the Evaluation. <br/>
